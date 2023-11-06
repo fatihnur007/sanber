@@ -1,0 +1,22 @@
+1.Jelaskan mengapa keamanan siber sangat penting dalam era digital saat ini.
+2.Apa yang dimaksud dengan peran "Red Team" dalam dunia keamanan siber, dan apa tujuan utama mereka?
+3.Apa peran utama "Blue Team" dalam keamanan siber, dan bagaimana mereka bekerja untuk melindungi sistem atau organisasi?
+4.Apa yang dimaksud dengan pengujian penetrasi dalam konteks keamanan siber, dan mengapa hal ini penting?
+5.Jelaskan bagaimana kebijakan dan prosedur keamanan berperan dalam keamanan siber, dan mengapa mereka penting.
+
+
+Jawab
+
+1.Berbagai macam alasan keamanan dibutuhkan adalah
+	a.Perlindungan data sensitif: keamanan siber bertujuan untuk melindungi data pribadi, perusahaan dan pemerintah dari kebocoran data, pencurian, dan manipulasi.
+	b.Kontinuitas Bisnis: keamanan siber dapat memastikan kontinuitas bisnis dengan mengidentifikasi ancaman-ancaman seperti DDoS, ransomware, dan lain-lain
+	c.Privasi Individu: keamanan siber membantu melindungi informasi pribadi dari penyalahgunaan
+	d.Keamanan Nasional:  Keamanan siber diperlukan untuk melindungi negara dari serangan yang dapat membahayakan keselamatan dan kestabilan.
+
+2.Red Team: tim yang bertugas untuk mengevaluasi keamanan suatu sistem atau organisasi dengan melakukan serangan simulasi. Tujuan utama mereka adalah untuk menemukan kelemahan dan celah dalam infrastruktur, aplikasi, dan kebijakan keamanan.
+
+3.Blue Team: Blue Team adalah tim yang bertanggung jawab untuk mempertahankan dan melindungi sistem atau organisasi dari serangan cyber. Mereka bertugas memonitor dan mendeteksi ancaman keamanan, serta merespons serangan dengan cepat.
+
+4.Pengujian penetrasi adalah sebuah pengujian terhadap sistem untuk mendeteksi adanya kerentanan pada sistem yang sedang dicek.
+
+5.Kebijakan dan prosedur berperan sebagai aturan untuk diikuti untuk melindungi data dan jaringan. Karena sebagai acuan untuk standar keamanan dalam melindungi data.
