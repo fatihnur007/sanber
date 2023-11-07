@@ -1,0 +1,21 @@
+Soal 1: Apa yang dimaksud dengan uji penetrasi (pentest) dalam keamanan siber, dan apa tujuan utamanya?
+
+Soal 2: Jelaskan perbedaan antara uji penetrasi internal dan uji penetrasi eksternal dalam keamanan siber.
+
+Soal 3: Apa yang dimaksud dengan metode "Black Box" dalam uji penetrasi, dan bagaimana cara kerjanya?
+
+Soal 4: Apa yang dimaksud dengan metode "Grey Box" dalam uji penetrasi, dan apa keuntungan menggunakan metode ini?
+
+Soal 5: Apa yang dimaksud dengan metode "White Box" dalam uji penetrasi, dan mengapa metode ini memerlukan waktu yang lebih lama?
+
+Jawab
+
+1. Kegiatan yang dirancang untuk mengidentifikasi dan mengevaluasi kerentanan keamanan dalam suatu sistem, jaringan, aplikasi atau infrastruktur teknologi informasi. Tujuannya adalah untuk memahami sejauh mana sistem tersebut rentan terhadap serangan siber dan bagaimana cara untuk memperbaiki kerentanan yang ditemukan.
+
+2. perbedaanya adalah asal dari penguji. jika uji penetrasi internal berasal dari tim atau individu yang memiliki akses terhadap jaringan atau sistem yang diuji. sedangkan uji penetrasi eksternal dilakukan oleh pihak eksternal(luar) yang tidak memiliki akses apapun baik jaringan atau sistem yang diuji.
+
+3. metode black box adalah metode yang memposisikan penguji sebagai hacker dimana tidak dibekali informasi apapun mengenai sistem. cara kerjanya denga memposisikan penguji sebagai hacker yang harus mengeksploitasi sistem untuk mencari celah keamanan yang dapat diretas.
+
+4. metode gray box adalah metode yang memposisikan penguji sebagai pengguna dimana penguji hanya mendapatkan informasi sebatas sebagai pengguna. keuntungannya ialah penguji dapat melakukan pengujian secara lebih fokus untuk mengeksploitasi kerentanan dengan resiko yang lebih besar.
+
+5. metode white box adalah metode yang mmemberikan hak akses dan informasi kepada penguji. karena penguji harus mendeteksi kerentanan sekecil apapun dalam sistem, dan memeriksa sistem secara menyeluruh dan mencapai tahap yang mungkin belum dapat diakses menggunakan metode black box ataupun gray box.
