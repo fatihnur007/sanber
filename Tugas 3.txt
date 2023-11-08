@@ -1,0 +1,21 @@
+Soal 1: Mengapa pemahaman dasar tentang keamanan siber diperlukan sebelum memulai perjalanan dalam uji penetrasi?
+
+Soal 2: Mengapa pemahaman tentang sistem operasi dan jaringan penting dalam uji penetrasi?
+
+Soal 3: Bagaimana penggunaan bahasa pemrograman dan skriping seperti Python atau Ruby dapat berguna dalam uji penetrasi?
+
+Soal 4: Mengapa perlu memiliki lingkungan laboratorium uji penetrasi yang aman dan terisolasi?
+
+Soal 5: Apa yang bisa Anda lakukan jika Anda ingin memulai karir di bidang uji penetrasi setelah mengikuti langkah-langkah panduan ini?
+
+Jawab
+
+1. karena merupakan salah satu ketrampilan kunci dalam bidang keamanan siber yang memungkinkan untuk mengidentifikasi dan mengevaluasi kerentanan keamanan dalam sistem, jaringan, atau aplikasi.
+
+2. karena dengan memahaminya dapat mengerti infrastruktur yang akan diuji.
+
+3. penggunaan bahasa ini bertujuan untuk mengembangkan alat dan skrip khusus untuk uji penetrasi.
+
+4. karena untuk memastikan keamanan dan konsistensi hasil pengujian
+
+5. mencoba menjadi bug bounty di laman-laman yang menyediakan lowongan.
