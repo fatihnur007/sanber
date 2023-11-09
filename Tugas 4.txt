@@ -1,0 +1,27 @@
+Soal 1: Mengapa tahap perencanaan (planning) sangat penting dalam proses uji penetrasi web? Sebutkan beberapa hal yang perlu diperhatikan saat merencanakan uji penetrasi.
+
+Soal 2: Mengapa pemahaman mendalam tentang aplikasi web menjadi langkah penting dalam proses uji penetrasi?
+
+Soal 3: Apa yang dimaksud dengan pencarian informasi (information gathering) dalam konteks uji penetrasi web? Mengapa langkah ini penting?
+
+Soal 4: Mengapa tahap evaluasi dan pelaporan (evaluation and reporting) adalah tahap penting dalam proses uji penetrasi web?
+
+Soal 5: Mengapa pemantauan (monitoring) adalah langkah yang penting setelah uji penetrasi selesai?
+
+Jawab
+
+1.karena untuk mengetahui tujuan serta langkah-langkah yang akan dilakukan dalam uji penetrasi
+--> Identifikasi sasaran
+--> Evaluasi risiko
+--> Tujuan yang jelas
+--> Dokumentasi dan Laporan
+
+2. Karena untuk melakukan uji penetrasi web, maka dibutuhkan setidaknya pengetahuan tentang aplikasi web agar mengetahui informasi tentang bug atau celah yang biasanya ada di aplikasi web.
+
+3.pencarian informasi adalah praktik mengumpulkan informasi terbuka yang tersedia secara publik untuk digunakan dalam analisis keamanan siber, penelitian, atau kepentingan lainnya. 
+
+karena informasi yang dikumpulkan dapat digunakan untuk merumuskan serangan atau memahami tingkat keamanan suatu entitas.
+
+4. karena tahap tersebut bertujuan untuk menilai potensi terkait dampak dari uji penetrasi yang dilakukan, lalu dialporkan sebagai hasil uji penetrasi dan untuk perbaikan keamanan.
+
+5. karena pemantauan bertujuan untuk melihat bagaimana respon sistem setelah dilakukan uji penetrasi dan diperkuat.
