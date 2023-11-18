@@ -1,0 +1,1 @@
+Gambar tersebut adalah response. disini saya mendapatkan cookie.session pengguna, mendapatkan info machine penggun. pada response tersebut pengguna sedang mengupload sebuah file gambar berformat JPG. namun pad kode tersebut juga disisipi sebuah kode xss berupa PHP yang ketika dieksekusi akan menampilkan info PHP yang digunakan, seperti versi, jenis dan lain-lain.
