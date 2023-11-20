@@ -1,0 +1,15 @@
+1. planning: Kita mengumpulkan informasi-informasi mengenai website dan aplikasi yang digunakan di perusahaan tersebut. identifikasi potensi serangan, serangan yang akan digunakan.
+
+2. Pemahaman Aplikasi: Memahami aplikasi yang digunakan seperti infrastruktur aplikasi, web server, CMS, Backend, aliran data, komposisi aplikasi.
+
+3. Pencarian Informasi: Pencarian informasi mengenai infrastruktur pendukungnya, kode sumber dan mencari menggunakan tools-tools seperti WHOIS, DNS lookup.
+
+4. Analisis Resiko: Sebagai pentest akan dilakukan analisis resiko dimana mengklasifikasikan potensi ancaman yang akan terjadi.
+
+5. Perencanaan Serangan: Melakukan perencanaan mengenai teknik dan alat apa yang akan digunakan untuk menyerang. juga membuat rencana penanggulangan ketika masalah yang akan terjadi saat pentest.
+
+6. Eksekusi Pentest: Melakukan uji penetrasi sesuai rencana, menganalisis dan mengidentifikasi masalah yang terjadi, serta juga mencatat hasi dan tiap langkah-langkah yang dilakukan saat pengujian.
+
+7. Evaluasi dan Pelaporan: Setelah itu menguji maka akan mengevaluasi untuk meningkatkan tingkat keamanan kerentanan yang ditemukan. kemudian hasil evaluasi di buat laporan detail tentang kerentanan dan saran rekomendasi perbaikan.
+
+8. Pemantauan: Setelah laporan dibuat akan dilanjutkan dengan monitoring atau pengawasan untuk memastikan kerentanan berhasil diatasi.
