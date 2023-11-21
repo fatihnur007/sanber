@@ -1,0 +1,11 @@
+1. URL yang dapat diserang SQL Injection
+https://www.blablabla.co.id/home/?search=sendok
+
+2. URL yang dapat diserang oleh XSS
+https://www.blablabla.co.id/home/comment
+
+3. URL yang dapat diserang oleh IDOR adalah URL yang ekspos
+https://www.blablabla.co.id/profile?id=27
+
+4. URL yang didapat diserang oleh Insecure File Upload adalah URL yang mengijinkan file apa saja untuk di upload
+https://www.blablabla.co.id/home/upload
